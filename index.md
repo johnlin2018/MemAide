@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MemAide
 
 You can use the [editor on GitHub](https://github.com/johnlin2018/memAide.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
