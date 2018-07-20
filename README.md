@@ -1,3 +1,3 @@
-# memAide.github.io
+# memAide
 
 To show what MemAide can do for you.
